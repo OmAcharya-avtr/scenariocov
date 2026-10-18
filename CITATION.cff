@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ScenarioCov"
+abstract: "Scenario-space coverage reporting for a verification campaign that has already run — t-way combinatorial coverage with the uncovered tuples enumerated rather than summarised as a percentage, equivalence-class and boundary coverage against declared classes, grid occupancy over continuous parameters with the discretisation stated as the assumption it is, and a learned sparse-region gap finder benchmarked against uniform random and greedy max-min-distance on coverage achieved per scenario executed; package named scenariocov because covmetrics was already taken on PyPI."
+type: software
+authors:
+  - family-names: "Acharya"
+    given-names: "Om"
+    alias: "OmAcharya-avtr"
+repository-code: "https://github.com/OmAcharya-avtr/scenariocov"
+license: "Apache-2.0"
+version: "0.1.0"
+date-released: "2026-08-30"
+keywords:
+  - aerospace
+  - testing
